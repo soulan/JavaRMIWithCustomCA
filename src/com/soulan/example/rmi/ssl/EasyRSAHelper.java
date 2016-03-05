@@ -1,4 +1,4 @@
-package com.soulan.example.rmi.factory;
+package com.soulan.example.rmi.ssl;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
